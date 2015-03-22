@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Meme</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_meme_view">My Meme</string>
+
+    <string-array name="name">
+        <item>If you know what I mean</item>
+        <item>Me Gusta</item>
+        <item>Y u no?</item>
+        <item>Troll</item>
+        <item>Forever Alone</item>
+        <item>I know that feel bro</item>
+        <item>LOL</item>
+        <item>Nothing to do here</item>
+        <item>Feel like a Sir</item>
+        <item>Bitch Please</item>
+    </string-array>
+    <string-array name="desc">
+        <item>Catchphrase associated with the cartooned Mr. Bean who is hinting an idea of perverse scenario</item>
+        <item>Rage comic face that is typically used to express one’s approval of an awkward or perverse situation</item>
+        <item>Image macro series using SMS shorthands and carefree grammar as a way to bring someone’s attention on a particular subject or issue</item>
+        <item>Rage comic character wearing a mischievous smile that is meant to represent the facial expression of an Internet troll</item>
+        <item>Exploitable rage comic character that is used to express loneliness and disappointment with life</item>
+        <item>Internet slang expression used to convey empathy towards or agree with someone else’s feeling or opinion</item>
+        <item>Rage comic character that often indicates laughter and general amusement</item>
+        <item>Catchphrase associated with the rage comic character Jet Pack Guy who escapes awkward or difficult situations by flying away with his jet pack</item>
+        <item>Catchphrase and rage comic character used to convey elegance, wealth and class</item>
+        <item>Reaction face to convey a dismissive attitude towards someone else’s input in online discussions</item>
+    </string-array>
+
+    <!--
+    <string-array name = "name">
+        <item>LOL Guy</item>
+        <item>Nothing To Do Here</item>
+        <item>Challenge Accepted</item>
+        <item>Forever Alone</item>
+        <item>Me Gusta</item>
+        <item>Trollface</item>
+        <item>B*tch Please</item>
+        <item>"Y U NO" GUY</item>
+        <item>Oh Crap</item>
+        <item>I Know That Feel Bro</item>
+    </string-array>
+    
+    <string-array name = "desc">
+        <item>is a rage comic character that is often used to indicate laughter and general amusement</item>
+        <item>is a catchphrase associated with the rage comic character Jet Pack Guy who escapes awkward or difficult situations by flying away with his jet pack</item>
+        <item>is an expression used to indicate that the speaker is willing to attempt completing a difficult task</item>
+        <item>is an exploitable rage comic character that is used to express loneliness and disappointment with life</item>
+        <item>is a rage comic face that is typically used to express one’s approval of an awkward or perverse situation</item>
+        <item>is a rage comic character wearing a mischievous smile that is meant to represent the facial expression of an Internet troll</item>
+        <item>is a reaction face to convey a dismissive attitude towards someone else’s input in online discussions</item>
+        <item>is an image macro series using SMS shorthands and carefree grammar as a way to bring someone’s attention on a particular subject or issue</item>
+        <item>is an exploitable image used in rage comics to express an array of feelings including astonishment, revelation, or sheer rage</item>
+        <item>is an Internet slang expression used to convey empathy towards or agree with someone else’s feeling or opinion</item>
+    </string-array>
+    -->
+
+    <!--<string name="title_activity_new">NewActivity</string>-->
+    <!--<string name="title_activity_icannotdothisanymore">Icannotdothisanymore</string>-->
+
+</resources>
